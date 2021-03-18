@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AB03C9B2-EE64-4EA1-934B-1491FE72D7DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>dbc_2</RootNamespace>
+    <AssemblyName>dbc-2</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addwords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addwords.Designer.cs">
+      <DependentUpon>addwords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addwordtobook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addwordtobook.Designer.cs">
+      <DependentUpon>addwordtobook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet.cs">
+      <DependentUpon>bdcDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bdcDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCount.Designer.cs">
+      <DependentUpon>FormCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormView.Designer.cs">
+      <DependentUpon>FormView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="helptxt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helptxt.Designer.cs">
+      <DependentUpon>helptxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="learnbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="learnbook.Designer.cs">
+      <DependentUpon>learnbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="learnedwordlistcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="learnedwordlistcs.Designer.cs">
+      <DependentUpon>learnedwordlistcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newwordstable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newwordstable.Designer.cs">
+      <DependentUpon>newwordstable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_book.Designer.cs">
+      <DependentUpon>report_book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_form.Designer.cs">
+      <DependentUpon>report_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_learning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_learning.Designer.cs">
+      <DependentUpon>report_learning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_newwords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_newwords.Designer.cs">
+      <DependentUpon>report_newwords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_users.Designer.cs">
+      <DependentUpon>report_users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_wlearning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_wlearning.Designer.cs">
+      <DependentUpon>report_wlearning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_word.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_word.Designer.cs">
+      <DependentUpon>report_word.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateNewwords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateNewwords.Designer.cs">
+      <DependentUpon>UpdateNewwords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdcDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="booklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="booklist.Designer.cs">
+      <DependentUpon>booklist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBase.cs" />
+    <Compile Include="ClassShared.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="creatbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creatbook.Designer.cs">
+      <DependentUpon>creatbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="addwords.resx">
+      <DependentUpon>addwords.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addwordtobook.resx">
+      <DependentUpon>addwordtobook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCount.resx">
+      <DependentUpon>FormCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormView.resx">
+      <DependentUpon>FormView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helptxt.resx">
+      <DependentUpon>helptxt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="learnbook.resx">
+      <DependentUpon>learnbook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="learnedwordlistcs.resx">
+      <DependentUpon>learnedwordlistcs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newwordstable.resx">
+      <DependentUpon>newwordstable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_form.rdlc" />
+    <EmbeddedResource Include="Report_book.rdlc" />
+    <EmbeddedResource Include="report_form.resx">
+      <DependentUpon>report_form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_learning.rdlc" />
+    <EmbeddedResource Include="report_learning.resx">
+      <DependentUpon>report_learning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_newwords.rdlc" />
+    <EmbeddedResource Include="report_newwords.resx">
+      <DependentUpon>report_newwords.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_users.rdlc" />
+    <EmbeddedResource Include="report_users.resx">
+      <DependentUpon>report_users.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_wlearning.rdlc" />
+    <EmbeddedResource Include="report_wlearning.resx">
+      <DependentUpon>report_wlearning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_book.resx">
+      <DependentUpon>report_book.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_word.rdlc" />
+    <EmbeddedResource Include="report_word.resx">
+      <DependentUpon>report_word.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateNewwords.resx">
+      <DependentUpon>UpdateNewwords.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="booklist.resx">
+      <DependentUpon>booklist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creatbook.resx">
+      <DependentUpon>creatbook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wlearning.resx">
+      <DependentUpon>wlearning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectwords.resx">
+      <DependentUpon>selectwords.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wordlist.resx">
+      <DependentUpon>wordlist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="bdcDataSet.xsc">
+      <DependentUpon>bdcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet.xss">
+      <DependentUpon>bdcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet1.xsc">
+      <DependentUpon>bdcDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet1.xss">
+      <DependentUpon>bdcDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet2.xsc">
+      <DependentUpon>bdcDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet2.xss">
+      <DependentUpon>bdcDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet3.xsc">
+      <DependentUpon>bdcDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet3.xss">
+      <DependentUpon>bdcDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet4.xsc">
+      <DependentUpon>bdcDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet4.xss">
+      <DependentUpon>bdcDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet5.xsc">
+      <DependentUpon>bdcDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet5.xss">
+      <DependentUpon>bdcDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet6.xsc">
+      <DependentUpon>bdcDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet6.xss">
+      <DependentUpon>bdcDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet7.xsc">
+      <DependentUpon>bdcDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet7.xss">
+      <DependentUpon>bdcDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet8.xsc">
+      <DependentUpon>bdcDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet8.xss">
+      <DependentUpon>bdcDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet9.xsc">
+      <DependentUpon>bdcDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="bdcDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdcDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdcDataSet9.xss">
+      <DependentUpon>bdcDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="wlearning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wlearning.Designer.cs">
+      <DependentUpon>wlearning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectwords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectwords.Designer.cs">
+      <DependentUpon>selectwords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wordlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wordlist.Designer.cs">
+      <DependentUpon>wordlist.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

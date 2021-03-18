@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bdcDataSet2" targetNamespace="http://tempuri.org/bdcDataSet2.xsd" xmlns:mstns="http://tempuri.org/bdcDataSet2.xsd" xmlns="http://tempuri.org/bdcDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="bdcConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="bdcConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.dbc_2.Properties.Settings.GlobalReference.Default.bdcConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="FormViewTableAdapter" GeneratorDataComponentClassName="FormViewTableAdapter" Name="FormView" UserDataComponentName="FormViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="bdcConnectionString (Settings)" DbObjectName="bdc.dbo.FormView" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT bookID, wordID, bwID, [count(bwID)] FROM dbo.FormView</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="bookID" DataSetColumn="bookID" />
+              <Mapping SourceColumn="wordID" DataSetColumn="wordID" />
+              <Mapping SourceColumn="bwID" DataSetColumn="bwID" />
+              <Mapping SourceColumn="count(bwID)" DataSetColumn="count(bwID)" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="bdcDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="bdcDataSet2" msprop:Generator_UserDSName="bdcDataSet2" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FormView" msprop:Generator_UserTableName="FormView" msprop:Generator_RowDeletedName="FormViewRowDeleted" msprop:Generator_TableClassName="FormViewDataTable" msprop:Generator_RowChangedName="FormViewRowChanged" msprop:Generator_RowClassName="FormViewRow" msprop:Generator_RowChangingName="FormViewRowChanging" msprop:Generator_RowEvArgName="FormViewRowChangeEvent" msprop:Generator_RowEvHandlerName="FormViewRowChangeEventHandler" msprop:Generator_TablePropName="FormView" msprop:Generator_TableVarName="tableFormView" msprop:Generator_RowDeletingName="FormViewRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="bookID" msprop:Generator_UserColumnName="bookID" msprop:Generator_ColumnPropNameInRow="bookID" msprop:Generator_ColumnVarNameInTable="columnbookID" msprop:Generator_ColumnPropNameInTable="bookIDColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="wordID" msprop:Generator_UserColumnName="wordID" msprop:Generator_ColumnPropNameInRow="wordID" msprop:Generator_ColumnVarNameInTable="columnwordID" msprop:Generator_ColumnPropNameInTable="wordIDColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bwID" msprop:Generator_UserColumnName="bwID" msprop:Generator_ColumnPropNameInRow="bwID" msprop:Generator_ColumnVarNameInTable="columnbwID" msprop:Generator_ColumnPropNameInTable="bwIDColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="count_x0028_bwID_x0029_" msprop:Generator_UserColumnName="count(bwID)" msprop:Generator_ColumnPropNameInRow="_count_bwID_" msprop:Generator_ColumnVarNameInTable="_columncount_bwID_" msprop:Generator_ColumnPropNameInTable="_count_bwID_Column" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:FormView" />
+      <xs:field xpath="mstns:bookID" />
+      <xs:field xpath="mstns:wordID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

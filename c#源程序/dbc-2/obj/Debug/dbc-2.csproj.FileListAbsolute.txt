@@ -1,0 +1,568 @@
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\bin\Debug\dbc-2.exe
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\bin\Debug\dbc-2.pdb
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.exe
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.pdb
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\Student2008.Form1.resources
+C:\Users\Administrator\Desktop\dbc-2\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.4\dbc-2\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.4\dbc-2\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.4\dbc-2\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.6\dbc-2\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.6\dbc-2\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\dbc-2\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\dbc-2\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\dbc-2\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\dbc-2\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\dbc-2\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\dbc-2\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\dbc-2\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\dbc-2\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\dbc-2\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (表单查询)\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.addtonewword.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.addtonewword.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) - (生词表) - 副本 (3)\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.addtonewword.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.newwordsview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(learn单词查询) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.addtonewword.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.newwordsview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newwordview) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\Student2008.frmMain.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(newword time) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(学习记录功能及其视图) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(form1-main) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.7  课后\dbc-2 (main设计) -(窗体间数据传输) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.8\dbc-2 (main设计) -(学习记录查询-起步) - 副本\dbc-2\obj\Debug\dbc_2.learned_distinct.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.8\dbc-2 (main设计) -(未能启用约束—报错) - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.8\dbc-2 (main设计) -(main完成） - 副本\dbc-2\obj\Debug\dbc_2.duozhichaxunmoni.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -回退 - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.8\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面修改 连接数据库更改 - 副本\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -尝试修改learning - 副本\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功 - 副本\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -修改learning 成功） - 对学习记录有要求\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.ubwlspview.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -对学习记录有要求完成 - 副本\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.helptxt.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -主界面 -准备添加帮助\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.helptxt.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\obj\Debug\RdlCompile.compiled
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\bin\Debug\dbc-2.exe.config
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\bin\Debug\dbc-2.exe
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\bin\Debug\dbc-2.pdb
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.addwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.addwordtobook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.FormCount.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.FormView.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.helptxt.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.learnbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.learnedwordlistcs.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.main.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.newwordstable.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_form.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_learning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_newwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_users.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_book.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.report_word.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.UpdateNewwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.booklist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\Student2008.Form1.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\Student2008.createbook.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.Properties.Resources.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.wlearning.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.selectwords.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc_2.wordlist.resources
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\dbc-2.csproj.GenerateResource.Cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\RdlCompile.cache
+D:\Desktop\1.9\dbc-2 (main设计) -(尝试多值查询） -“帮助”完成 - 副本\dbc-2\obj\Debug\RdlCompile.compiled
